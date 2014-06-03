@@ -8,3 +8,5 @@
 		attempting to complete Quiz 2 today also.
 		
 		Started working on the course project as well.
+
+		Recovered (I think) from a dangling blob situation...
