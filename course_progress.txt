@@ -9,4 +9,6 @@
 		
 		Started working on the course project as well.
 
-		Recovered (I think) from a dangling blob situation...
+		Recovered (I think) from a dangling blob situation...nope..not yet. but learning
+		
+		
