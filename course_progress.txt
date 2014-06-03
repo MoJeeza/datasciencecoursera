@@ -1,0 +1,10 @@
+3-Jun-2014	Completed the week-1 Quiz - scored 19/20 (1) and 20/20 (2)
+		installed R, R-Studio (both on XP and Ubuntu)
+		created a git-hub account and a repository (went about it the reverse way -- Should have created a local repo first and then pushed it to github.)
+		then installed git-bash and git-gui on xp (un-supported) and also on ubuntu (gitg-gui and git command line)
+
+		(want to finish this asap) so I can move on to the next course (R-Programming)
+		
+		attempting to complete Quiz 2 today also.
+		
+		Started working on the course project as well.
